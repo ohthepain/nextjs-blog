@@ -27,4 +27,4 @@ function FirstPost() {
   );
 }
 
-export default FirstPos;
+export default FirstPost;

@@ -9,6 +9,7 @@ function FirstPost() {
   	<Layout>
   		<Head>
 	  		<title>First Post</title>
+	  		<h1>Pull request this change</h1>
 	  		<Script src="https://unpkg.com/jzz"
 	  			strategy="lazyOnload"
 	  			onLoad={() => {
